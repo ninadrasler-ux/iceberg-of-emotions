@@ -1,7 +1,6 @@
-
 # *Titanic Emoji & Sentiment Exploration*
 
----
+***
 
 ## 🎬 Why study emojis on Titanic comments?
 Because if there’s any film that turns the internet into a puddle of feelings, it’s Titanic.
